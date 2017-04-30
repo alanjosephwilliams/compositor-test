@@ -44,8 +44,8 @@
     },
     {
       "component": "header",
-      "heading": "compositor-test",
-      "subhead": "testing compositor",
+      "heading": "Alan Joseph Williams",
+      "subhead": "Technology, Design and Management in the Public Interest",
       "children": [
         {
           "component": "ui/TweetButton",
